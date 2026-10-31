@@ -1,18 +1,17 @@
-
 # Hi, I'm Mansi Farle 👋
 
-### Computer Engineering Diploma Graduate | Aspiring Software Developer
+### Computer Engineering Diploma Student | Aspiring Software Developer
 
-I'm a Computer Engineering diploma graduate passionate about software development, Web Development, Artificial Intelligence, and Machine Learning.
+I'm a Computer Engineering diploma student passionate about software development, web development, Artificial Intelligence, and Machine Learning.
 
-I enjoy building practical applications and exploring new technologies. I'm currently looking for internship opportunities where I can improve my technical skills and contribute to real-world projects.
+I enjoy building practical applications, exploring new technologies, and solving real-world problems through code. I'm currently looking for internship opportunities where I can enhance my technical skills and contribute to meaningful projects.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Completed 3-year Diploma in Computer Engineering after 10th
-- 💻 Interested in Software Development, Web Development and AI/ML
+- 🎓 Pursuing a Diploma in Computer Engineering at Government Polytechnic, Mumbai
+- 💻 Interested in Software Development, Web Development, and AI/ML
 - 🌱 Currently improving my Python and application development skills
 - 🚀 Building projects that solve real-world problems
 - 🔍 Actively looking for internship opportunities
@@ -21,84 +20,99 @@ I enjoy building practical applications and exploring new technologies. I'm curr
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### Programming Languages
 - Python
 - Dart
 - C / C++
 - Java
-- Javascript
-- Html
+- JavaScript
+- HTML
 - R
 
-**Frameworks & Technologies**
+### Frameworks & Technologies
 - Flutter
 - Flask
 - TensorFlow
 
-**Tools**
+### Tools
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 - Android Studio
 - RStudio
 
-**Database**
+### Databases
 - SQLite
 - MongoDB
+
 ---
 
 ## 🚀 My Projects
 
-### 1. E-Krushi — AI Plant Disease Detection
+### 1. 🌱 E-Krushi — AI-Based Plant Disease Detection
 
-An AI-based plant disease detection project designed to help farmers identify plant diseases.
+An AI-powered plant disease detection project designed to help farmers identify plant diseases using image classification.
 
-**Technologies:** Flutter, Dart, Python, Flask, TensorFlow
+**Technologies:** Flutter, Dart, Python, Flask, TensorFlow, Arduino
 
 - Developed a mobile application and a portable device for plant disease detection.
-- Integrated AI-based image classification.
+- Integrated AI-based image classification for plant disease identification.
 - Worked on backend prediction functionality.
-- Designed the solution to support farmers with disease information and treatment guidance.
+- Designed the solution to support farmers with plant disease information and treatment guidance.
 
-[View Project Repository](https://github.com/CodeByMansy/E-Krushi.git)
+🔗 [View Project Repository](https://github.com/CodeByMansy/E-Krushi)
 
-### 2. SmartQuiz — AI MCQ Generator
+---
 
-An AI/ML micro project that generates multiple-choice questions from study notes.
+### 2. 🧠 SmartQuiz — AI MCQ Generator
+
+An AI/ML micro project that generates multiple-choice questions from study notes and learning materials.
 
 **Technologies:** Python, Flask, PDF Processing, AI Integration
 
-- Developed a web application for generating quizzes from notes.
-- Supported PDF and text-based learning material.
+- Developed a web application for generating quizzes from study notes.
+- Supported PDF and text-based learning materials.
 - Created an interactive quiz-generation workflow.
+- Designed the application to make learning and self-assessment easier.
 
-[[View Project Repository](https://github.com/CodeByMansy/SmartQuiz.git)
-### 3. CareerAI — Career Assistance Platform
+🔗 [View Project Repository](https://github.com/CodeByMansy/SmartQuiz)
 
-A career assistance application designed to support job seekers.
+---
+
+### 3. 💼 CareerAI — Career Assistance Platform
+
+A career assistance platform designed to support job seekers with career preparation and job opportunities.
 
 **Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript
 
-- Developed user authentication.
+- Developed user authentication and registration functionality.
 - Worked on resume analysis and job matching features.
-- Designed a professional web application interface.
+- Designed a professional and responsive web application interface.
+- Built features to help users improve their career preparation.
 
-[View Project Repository](YOUR_CAREERAI_REPOSITORY_LINK)
+🔗 [View Project Repository](YOUR_CAREERAI_REPOSITORY_LINK)
 
 ---
 
 ## 🎓 Education
 
-**Diploma in Computer Engineering**
+**Diploma in Computer Engineering**  
+Government Polytechnic, Mumbai  
+2024 – 2027  
+Currently pursuing final semester
 
-Government Polytechnic, Mumbai.
-
-2024-2027
+**Secondary School Certificate (SSC)**  
+St. John's High School  
+2023 | 90.40%
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/mansi-farle-02920a3a8)
-- GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
-- Email: mansifarle@gmail.com
+- 💼 LinkedIn: [Mansi Farle](https://www.linkedin.com/in/mansi-farle-02920a3a8/)
+- 🐙 GitHub: [CodeByMansy](https://github.com/CodeByMansy)
+- 📧 Email: [mansifarle@gmail.com](mailto:mansifarle@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
