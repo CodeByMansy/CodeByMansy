@@ -72,8 +72,7 @@ An AI/ML micro project that generates multiple-choice questions from study notes
 - Supported PDF and text-based learning material.
 - Created an interactive quiz-generation workflow.
 
-[View Project Repository](YOUR_SMARTQUIZ_REPOSITORY_LINK)
-
+[[View Project Repository](https://github.com/CodeByMansy/SmartQuiz.git)
 ### 3. CareerAI — Career Assistance Platform
 
 A career assistance application designed to support job seekers.
