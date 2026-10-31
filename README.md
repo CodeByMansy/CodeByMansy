@@ -27,7 +27,7 @@ I enjoy building practical applications and exploring new technologies. I'm curr
 - C / C++
 - Java
 - Javascript
-- HTML
+- Html
 - R
 
 **Frameworks & Technologies**
