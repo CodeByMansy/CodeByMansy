@@ -107,6 +107,12 @@ St. John's High School
 
 ---
 
+## 🌐 My Portfolio
+
+[Visit My Portfolio](https://codebymansy.github.io/CodeByMansy/)
+
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Mansi Farle](https://www.linkedin.com/in/mansi-farle-02920a3a8/)
