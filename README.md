@@ -60,7 +60,7 @@ An AI-based plant disease detection project designed to help farmers identify pl
 - Worked on backend prediction functionality.
 - Designed the solution to support farmers with disease information and treatment guidance.
 
-[View Project Repository](YOUR_EKRUSHI_REPOSITORY_LINK)
+[View Project Repository](https://github.com/CodeByMansy/E-Krushi.git)
 
 ### 2. SmartQuiz — AI MCQ Generator
 
