@@ -99,6 +99,6 @@ Government Polytechnic, Mumbai.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/mansi-farle-02920a3a8)
 - GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
 - Email: mansifarle@gmail.com
