@@ -103,7 +103,7 @@ Currently pursuing final semester
 
 **Secondary School Certificate (SSC)**  
 St. John's High School  
-2023 | 90.40%
+2024 | 90.40%
 
 ---
 
