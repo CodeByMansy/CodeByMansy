@@ -90,7 +90,7 @@ A career assistance platform designed to support job seekers with career prepara
 - Designed a professional and responsive web application interface.
 - Built features to help users improve their career preparation.
 
-🔗 [View Project Repository](YOUR_CAREERAI_REPOSITORY_LINK)
+🔗 [View Project Repository](https://github.com/CodeByMansy/CareerAI.git)
 
 ---
 
