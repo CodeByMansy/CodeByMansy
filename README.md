@@ -98,7 +98,7 @@ A career assistance platform designed to support job seekers with career prepara
 
 **Diploma in Computer Engineering**  
 Government Polytechnic, Mumbai  
-2024 – 2027  
+Expected Completion: May 2027
 Currently pursuing final semester
 
 **Secondary School Certificate (SSC)**  
